@@ -1,20 +1,9 @@
 # Gaze_Controlled_Keyboard
 
-## Table of Content:
-* [Overview](https://github.com/ShubhangiDabral13/Gaze_Controlled_Keyboard#Overview)
-* [Motivation](https://github.com/ShubhangiDabral13/Gaze_Controlled_Keyboard#Motivation)
-* [Core-Logic](https://github.com/ShubhangiDabral13/Gaze_Controlled_Keyboard#Core-Logic)
-* [Inspiration From](https://github.com/ShubhangiDabral13/Gaze_Controlled_Keyboard#Inspiration-From)
 
 
 ## Overview 
 The “Gaze controlled keyboard” is a project where we will control the keyboard through our eyes using Python with Opencv, completely from scratch.The goal of such app is to write without using the hands. 
-
-## Motivation 
-To implement the technology for a better tomorrow is the motivation for this project.
-I came across Opencv and read about it through various blogs on it. Thus the zeal to work on opencv sparked within me and the idea to  create the virtual keyboard which could be controlled by our gaze without using the hands.Such applications are really important for people affected by quadriplegia who completely lost the control of their limbs.
-
-
 
 
 ## Core-Logic
